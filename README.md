@@ -120,16 +120,4 @@ with external APIs for searching games from google play store and getting otp in
 * **MongoDB**: NoSQL database for storing data.
 * **Mongoose**: Object Data Modeling (ODM) library for MongoDB and Node.js
 
-## Environment Variables
-
-* MONGO_DB_URI
-* JWT_SECRET
-* PORT
-* OTP_API
-* SERP_API_KEY
-
-## Author
-<br>
-Aashista Karki
-
 
